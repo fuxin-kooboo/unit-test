@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List.vue has same HTML structure 1`] = `
+"<ul data-server-rendered=\\"true\\"><li>
+        item one
+    </li><li>
+        item two
+    </li></ul>"
+`;
